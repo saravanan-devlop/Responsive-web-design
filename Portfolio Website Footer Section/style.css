@@ -1,0 +1,21 @@
+.Cus-Container{
+    background-color: #0d2436;
+    height: 98vh;
+    width: 100%;
+}
+img{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+.card-title{
+    color: #e14406;
+}
+p{
+    color: #f3f5f7;
+}
+.Cus-Footer{
+    background-color: #001c32;
+    width: 100%;
+    height: 7vh;
+}

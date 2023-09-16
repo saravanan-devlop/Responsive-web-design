@@ -1,0 +1,31 @@
+.Cus-MainBody{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.card{
+    background: transparent;
+    border: none;
+    color: rgb(243, 245, 243);
+}
+.Cus-Icon{
+    font-size: 40px;
+}
+.Cus-IconColor-First{
+    color: rgb(250, 253, 250);
+}
+.Cus-IconColor-Second{
+color: rgb(251, 252, 251);
+}
+.Cus-IconColor-Third{
+    color: rgb(255, 255, 255);
+}
+.Text_Overline{
+    text-decoration: overline;
+}
+.fa-solid,.fa-regular {
+    border-bottom: 1px solid rgb(249, 251, 249);
+    padding-bottom: 15px;
+}

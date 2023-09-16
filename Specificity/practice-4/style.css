@@ -1,0 +1,9 @@
+.Cus-Container{
+    background-color: lightgray;
+}
+.Cus-Container .Blue-Text{
+    color: blue;
+}
+.Cus-Container #Cus-Parafs{
+    font-size: 20px;
+}

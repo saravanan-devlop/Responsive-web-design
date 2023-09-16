@@ -1,0 +1,21 @@
+.logo{
+    height: 50px;
+    width: 50px;
+    border: 1px solid white;
+}
+.vrbg{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height:100vh;
+    width: 100%;
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    position: relative;
+    top:50%;
+}
+.btn{
+    position: relative;
+    top:52%;
+    left:45%;
+}

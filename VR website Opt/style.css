@@ -1,0 +1,45 @@
+.Bg_Img{
+    background-color: #19232d;
+    height: 100%;
+    width: 100%;
+}
+.Img_One{
+    height: 60px;
+    width: 100px;
+}
+.card{
+    border: none;
+    background: none;
+    color: #5a7184;
+}
+.Font_Icon{
+    font-size: 30px;
+    display: inline-block;
+    border-radius: 60px;
+  box-shadow: 0 0 2px  #202b36;
+  padding: 0.5em 0.6em;
+  background-color: #202b36; 
+}
+.Card_Add{
+    font-size: 30px;
+}
+.Font_Con{
+    font-size: 30px;
+}
+.Email_Con{
+    font-size: 25px;
+}
+.Para_One{
+    font-size: 25px;
+    color: #5a7184;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgb(255, 255, 255);
+  }
+.Icon_Cop{
+    font-size: 30px;
+    color: #5a7184;
+}

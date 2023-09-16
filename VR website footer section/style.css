@@ -1,0 +1,45 @@
+.Cus-Bg-Image{
+    background-color: #19232d;
+    height: 100%;
+    width: 100%;
+}
+.Cus-Image{
+    height: 60px;
+    width: 100px;
+}
+.card{
+    border: none;
+    background: none;
+    color: #5a7184;
+}
+.Font_Icon{
+    font-size: 30px;
+    display: inline-block;
+    border-radius: 60px;
+  box-shadow: 0 0 2px  #202b36;
+  padding: 0.5em 0.6em;
+  background-color: #202b36; 
+}
+.Cus-Address{
+    font-size: 30px;
+}
+.Cus-Icon{
+    font-size: 30px;
+}
+.Cus-Contact{
+    font-size: 25px;
+}
+.Cus-Help-Para{
+    font-size: 25px;
+    color: #5a7184;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 3px solid rgb(255, 255, 255);
+  }
+.Cus-Icon-Footer{
+    font-size: 30px;
+    color: #5a7184;
+}

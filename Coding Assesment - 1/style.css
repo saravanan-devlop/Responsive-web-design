@@ -1,0 +1,14 @@
+.Cus-Bg-ImageOne{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-carousel-1-img.png');
+    }
+    .Cus-Bg-ImageTwo{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-carousel-2-img.png');
+    }
+    .Cus-Bg-ImageThree{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-carousel-3-img.png');
+    }
+    .Cus-Carousel-Image{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
